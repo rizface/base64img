@@ -5,7 +5,7 @@ convert base64 DataURLs to image
 ### Install
 
 ```shell
-go get github.com/rizface/base64image
+go get github.com/rizface/base64img
 ```
 
 ### Usage
